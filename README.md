@@ -6,3 +6,7 @@ Clone the respository into your pc on any folder. Run CengoMain and open any gam
 Instructions of use- The left hand index finger is used as to press release the W key. Raising it will press W and putting it down will release W. Red marker is used to move the mouse. The left hand thumb is used to emulate mouse left button press. Opening the thumb will click the mouse and closing it will release the mouse button.
 
 Big thanks to his tutorials for hand gesture recognition - https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI
+
+Bugs/Known Issues -
+1. FPS during some games is very low 
+2. Left hand must be shown on webcam first before the right hand, else it will take keyboard inputs from right hand.
